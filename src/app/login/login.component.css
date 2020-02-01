@@ -1,0 +1,13 @@
+
+.signin-footer {
+    font-size: 12px;
+}
+
+.position-bottom {
+    position: absolute;
+    bottom: 0px;
+}
+
+.signin-footer p{
+    margin: 0px;
+}

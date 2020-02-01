@@ -1,0 +1,14 @@
+
+.login-banner {
+    background-image: url("/assets/images/pos-system-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.login-banner .jumbotron {
+    margin: 15px;
+    background-color: rgba(0, 0, 0,0.5);
+    color: white;
+}

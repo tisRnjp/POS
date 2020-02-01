@@ -1,7 +1,6 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 
-body,
-        html {
+body, html {
             height: 100%;
         }
 
@@ -11,71 +10,4 @@ body,
 
         .bg-light-grey {
             background-color: #F3F4F8;
-        }
-
-        .login-logo {
-            width: 50px;
-            height: 50px;
-        }
-
-        .pb-40 {
-            padding-bottom: 40px;
-        }
-
-        .login-form label {
-            font-size: 14px;
-        }
-
-        .login-form button {
-            font-size: 14px;
-        }
-
-        .line {
-            background-color: #b5b5b5 !important;
-        }
-
-        .btn-signin {
-            width: 113px;
-            height: 40px;
-        }
-
-        .signin-footer {
-            font-size: 12px;
-        }
-
-        .position-bottom {
-            position: absolute;
-            bottom: 0px;
-        }
-
-        .login-form{
-            margin: 20px;
-        }
-
-        .login-model{
-            padding-top: 10%;
-            max-width: 560px;
-            min-width: 300px;
-        }
-
-        .login-banner {
-            background-image: url("/assets/images/pos-system-1.jpg");
-            background-repeat: no-repeat;
-            background-size: cover;
-            overflow: hidden;
-
-        }
-
-        .login-banner .jumbotron {
-            margin: 15px;
-            background-color: rgba(0, 0, 0,0.5);
-            color: white;
-        }
-
-        .signin-body{
-            height: 90%;
-        }
-
-        .signin-footer p{
-            margin: 0px;
         }
